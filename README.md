@@ -7,4 +7,4 @@ ImportProbe is a Python imports profiler tool designed to analyze the time it ta
 3. Upload your file and analyze the chart!
 
 # TODO
-- [] Not parsing properly very deep packages.
+- [ ] Not parsing properly very deep packages.
